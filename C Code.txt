@@ -1,0 +1,5 @@
+// this function is implemented to add two integers 
+int Add (int x, int y)
+{
+    return x+y;
+}
